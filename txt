@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="trt1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8b/TRT_1_logo.png" group-title="Türkisch",TRT 1
+http://example.com/stream/trt1.m3u8
+#EXTINF:-1 tvg-id="atv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b9/ATV_Turkey_logo.png" group-title="Türkisch",ATV
+http://example.com/stream/atv.m3u8
