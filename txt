@@ -1,5 +1,37 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="trt1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8b/TRT_1_logo.png" group-title="Türkisch",TRT 1
-http://example.com/stream/trt1.m3u8
-#EXTINF:-1 tvg-id="atv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b9/ATV_Turkey_logo.png" group-title="Türkisch",ATV
-http://example.com/stream/atv.m3u8
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="showtv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/Show_TV_logo.png" group-title="Türkisch",Show TV
+https://dogus-live.daioncdn.net/showtv/showtv.m3u8
+
+#EXTINF:-1 tvg-id="fox.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Fox_TV_Turkey_logo.png" group-title="Türkisch",Now TV (ehem. FOX Türkiye)
+https://cdn1.streambtw.com/live/fox_tr/index.m3u8
+
+#EXTINF:-1 tvg-id="kanald.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3f/Kanal_D_logo.png" group-title="Türkisch",Kanal D
+https://kanaldstream-lh.akamaihd.net/i/kanaldstream_1@334671/master.m3u8
+
+#EXTINF:-1 tvg-id="star.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3e/Star_TV_Turkey_logo.png" group-title="Türkisch",Star TV
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+
+#EXTINF:-1 tvg-id="teve2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Teve2_logo.png" group-title="Türkisch",Teve2
+https://teve2-live.daioncdn.net/teve2/teve2.m3u8
+
+#EXTINF:-1 tvg-id="tv8.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/TV8_logo.png" group-title="Türkisch",TV8
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/10/Beyaz_TV_logo.png" group-title="Türkisch",Beyaz TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+
+#EXTINF:-1 tvg-id="teve2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Teve2_logo.png" group-title="Türkisch",Teve2
+https://teve2-live.daioncdn.net/teve2/teve2.m3u8
+
+#EXTINF:-1 tvg-id="trt2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/TRT_2_logo.png" group-title="Kultur",TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ab/TRT_Belgesel_logo.png" group-title="Doku",TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="teve2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Teve2_logo.png" group-title="Serien",Teve2
+https://teve2-live.daioncdn.net/teve2/teve2.m3u8
