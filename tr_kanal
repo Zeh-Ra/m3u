@@ -1,10 +1,24 @@
 #EXTM3U
 
+# --- Nachrichten ---
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/TRT_Haber_logo.png" group-title="Nachrichten",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="tgrthaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/TGRT_Haber_logo.png" group-title="Nachrichten",TGRT Haber
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Kanal_7_logo.png" group-title="Nachrichten",Kanal 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/10/Beyaz_TV_logo.png" group-title="Nachrichten",Beyaz TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:-1 tvg-id="tv5.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/69/TV5_Turkey_logo.png" group-title="Nachrichten",TV5
+https://tv5-live.daioncdn.net/tv5/tv5.m3u8
+#EXTINF:-1 tvg-id="krt.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/KRT_TV_logo.png" group-title="Nachrichten",KRT TV
+https://krt-live.daioncdn.net/krt/krt.m3u8
+
 # --- Unterhaltung ---
 #EXTINF:-1 tvg-id="showtv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/Show_TV_logo.png" group-title="Unterhaltung",Show TV
-https://dogus-live.daioncdn.net/showtv/showtv.m3u8
+https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 #EXTINF:-1 tvg-id="startv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3e/Star_TV_Turkey_logo.png" group-title="Unterhaltung",Star TV
-https://dogus-live.daioncdn.net/startv/startv.m3u8
+https://www.startv.com.tr/canli-yayin
 #EXTINF:-1 tvg-id="tv8.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/TV8_logo.png" group-title="Unterhaltung",TV8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:-1 tvg-id="teve2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Teve2_logo.png" group-title="Unterhaltung",Teve2
@@ -24,20 +38,7 @@ https://kanaldramalive.daioncdn.net/kanald/kanald.m3u8
 #EXTINF:-1 tvg-id="kanaldplus.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3f/Kanal_D_logo.png" group-title="Serien",Kanal D Plus
 https://kanaldplus-live.daioncdn.net/kanaldplus/kanaldplus.m3u8
 #EXTINF:-1 tvg-id="starturk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Star_Türk_logo.png" group-title="Serien",Star Türk
-
-# --- Nachrichten ---
-#EXTINF:-1 tvg-id="trthaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/TRT_Haber_logo.png" group-title="Nachrichten",TRT Haber
-https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="tgrthaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/TGRT_Haber_logo.png" group-title="Nachrichten",TGRT Haber
-https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
-#EXTINF:-1 tvg-id="kanal7.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Kanal_7_logo.png" group-title="Nachrichten",Kanal 7
-https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-#EXTINF:-1 tvg-id="beyaztv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/10/Beyaz_TV_logo.png" group-title="Nachrichten",Beyaz TV
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-#EXTINF:-1 tvg-id="tv5.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/69/TV5_Turkey_logo.png" group-title="Nachrichten",TV5
-https://tv5-live.daioncdn.net/tv5/tv5.m3u8
-#EXTINF:-1 tvg-id="krt.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/KRT_TV_logo.png" group-title="Nachrichten",KRT TV
-https://krt-live.daioncdn.net/krt/krt.m3u8
+https://www.starturk.com.tr/canli-yayin
 
 # --- Kultur / Doku ---
 #EXTINF:-1 tvg-id="trt2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/TRT_2_logo.png" group-title="Kultur",TRT 2
