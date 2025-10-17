@@ -1,0 +1,12 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww12100\viewh19360\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 #EXTM3U\
+#EXTINF:-1 tvg-id="trt1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8b/TRT_1_logo.png" group-title="T\'fcrkisch",TRT 1\
+http://example.com/stream/trt1.m3u8\
+#EXTINF:-1 tvg-id="atv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b9/ATV_Turkey_logo.png" group-title="T\'fcrkisch",ATV\
+http://example.com/stream/atv.m3u8}
