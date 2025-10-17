@@ -1,37 +1,50 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="trt1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8b/TRT_1_logo.png" group-title="Türkisch",TRT 1
-https://tv-trt1.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="showtv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/Show_TV_logo.png" group-title="Türkisch",Show TV
+# --- Unterhaltung ---
+#EXTINF:-1 tvg-id="showtv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/Show_TV_logo.png" group-title="Unterhaltung",Show TV
 https://dogus-live.daioncdn.net/showtv/showtv.m3u8
-
-#EXTINF:-1 tvg-id="fox.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Fox_TV_Turkey_logo.png" group-title="Türkisch",Now TV (ehem. FOX Türkiye)
-https://cdn1.streambtw.com/live/fox_tr/index.m3u8
-
-#EXTINF:-1 tvg-id="kanald.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3f/Kanal_D_logo.png" group-title="Türkisch",Kanal D
-https://kanaldstream-lh.akamaihd.net/i/kanaldstream_1@334671/master.m3u8
-
-#EXTINF:-1 tvg-id="star.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3e/Star_TV_Turkey_logo.png" group-title="Türkisch",Star TV
+#EXTINF:-1 tvg-id="startv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3e/Star_TV_Turkey_logo.png" group-title="Unterhaltung",Star TV
 https://dogus-live.daioncdn.net/startv/startv.m3u8
-
-#EXTINF:-1 tvg-id="teve2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Teve2_logo.png" group-title="Türkisch",Teve2
-https://teve2-live.daioncdn.net/teve2/teve2.m3u8
-
-#EXTINF:-1 tvg-id="tv8.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/TV8_logo.png" group-title="Türkisch",TV8
+#EXTINF:-1 tvg-id="tv8.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/TV8_logo.png" group-title="Unterhaltung",TV8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-
-#EXTINF:-1 tvg-id="beyaztv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/10/Beyaz_TV_logo.png" group-title="Türkisch",Beyaz TV
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-
-#EXTINF:-1 tvg-id="teve2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Teve2_logo.png" group-title="Türkisch",Teve2
+#EXTINF:-1 tvg-id="teve2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Teve2_logo.png" group-title="Unterhaltung",Teve2
 https://teve2-live.daioncdn.net/teve2/teve2.m3u8
+#EXTINF:-1 tvg-id="showmax.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ab/Showmax_Turkey_logo.png" group-title="Unterhaltung",Show Max
+https://dogus-live.daioncdn.net/showmax/showmax.m3u8
 
+# --- Serien ---
+#EXTINF:-1 tvg-id="atv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b9/ATV_Turkey_logo.png" group-title="Serien",ATV
+https://atv-live.daioncdn.net/atv/atv.m3u8
+#EXTINF:-1 tvg-id="atv2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/ATV2_logo.png" group-title="Serien",ATV2
+https://atv2-live.daioncdn.net/atv2/atv2.m3u8
+#EXTINF:-1 tvg-id="kanald.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3f/Kanal_D_logo.png" group-title="Serien",Kanal D
+https://kanaldstream-lh.akamaihd.net/i/kanaldstream_1@334671/master.m3u8
+#EXTINF:-1 tvg-id="kanaldrama.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Kanal_D_Drama_logo.png" group-title="Serien",Kanal D Drama
+https://kanaldramalive.daioncdn.net/kanald/kanald.m3u8
+#EXTINF:-1 tvg-id="kanaldplus.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3f/Kanal_D_logo.png" group-title="Serien",Kanal D Plus
+https://kanaldplus-live.daioncdn.net/kanaldplus/kanaldplus.m3u8
+#EXTINF:-1 tvg-id="starturk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Star_Türk_logo.png" group-title="Serien",Star Türk
+
+# --- Nachrichten ---
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/TRT_Haber_logo.png" group-title="Nachrichten",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="tgrthaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/TGRT_Haber_logo.png" group-title="Nachrichten",TGRT Haber
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Kanal_7_logo.png" group-title="Nachrichten",Kanal 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/10/Beyaz_TV_logo.png" group-title="Nachrichten",Beyaz TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:-1 tvg-id="tv5.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/69/TV5_Turkey_logo.png" group-title="Nachrichten",TV5
+https://tv5-live.daioncdn.net/tv5/tv5.m3u8
+#EXTINF:-1 tvg-id="krt.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/KRT_TV_logo.png" group-title="Nachrichten",KRT TV
+https://krt-live.daioncdn.net/krt/krt.m3u8
+
+# --- Kultur / Doku ---
 #EXTINF:-1 tvg-id="trt2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/TRT_2_logo.png" group-title="Kultur",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ab/TRT_Belgesel_logo.png" group-title="Doku",TRT Belgesel
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ab/TRT_Belgesel_logo.png" group-title="Kultur",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="teve2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Teve2_logo.png" group-title="Serien",Teve2
-https://teve2-live.daioncdn.net/teve2/teve2.m3u8
+# --- Kino / Filme ---
+#EXTINF:-1 tvg-id="cine5.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/9e/Cine5_logo.png" group-title="Kino",Cine5
+https://cine5-live.daioncdn.net/cine5/cine5.m3u8
