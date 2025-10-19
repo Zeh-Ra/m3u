@@ -1,5 +1,13 @@
 #EXTM3U
 # --- Ulusal ---
+#EXTINF:-1 tvg-id="TRT1.tr@SD",group-title="Ulusal",TRT 1 (1080p)
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRT2.tr@SD",group-title="Ulusal",TRT 2 (720p)
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="atv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b9/ATV_Turkey_logo.png" group-title="Ulusal",ATV
+http://89.187.191.41/ATV-HD-TR/video.m3u8
+#EXTINF:-1 tvg-id="atv2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/ATV2_logo.png" group-title="Ulusal",ATV2
+https://atv2-live.daioncdn.net/atv2/atv2.m3u8
 #EXTINF:-1 tvg-id="showtv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/Show_TV_logo.png" group-title="Ulusal",Show TV
 https://showtv.blutv.com/blutv_showtv_live/live.m3u8
 #EXTINF:-1 tvg-id="showmax.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ab/Showmax_Turkey_logo.png" group-title="Ulusal",Show Max
@@ -8,57 +16,41 @@ https://dogus-live.daioncdn.net/showmax/showmax.m3u8
 https://www.startv.com.tr/canli-yayin
 #EXTINF:-1 tvg-id="teve2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Teve2_logo.png" group-title="Ulusal",Teve2
 https://teve2-live.daioncdn.net/teve2/teve2.m3u8
-#EXTINF:-1 tvg-id="atv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b9/ATV_Turkey_logo.png" group-title="Ulusal",ATV
-https://atv-live.daioncdn.net/atv/atv.m3u8
-#EXTINF:-1 tvg-id="atv2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/ATV2_logo.png" group-title="Ulusal",ATV2
-https://atv2-live.daioncdn.net/atv2/atv2.m3u8
 #EXTINF:-1 tvg-id="kanald.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3f/Kanal_D_logo.png" group-title="Ulusal",Kanal D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:-1 tvg-id="starturk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Star_Türk_logo.png" group-title="Ulusal",Star Türk
 https://www.starturk.com.tr/canli-yayin
 #EXTINF:-1 tvg-id="trt2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/TRT_2_logo.png" group-title="Ulusal",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8 
-#EXTINF:-1,KANAL 7 group-title="Ulusal"
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Kanal_7_logo.png" group-title="Ulsal",Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1,group-title="Ulusal",KANAL 7 AVRUPA
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:-1 tvg-id="tv8.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/TV8_logo.png" group-title="Ulusal",TV8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-#EXTINF:-1,TV 8.5 group-title="Ulusal"
+#EXTINF:-1,group-title="Ulusal",TV 8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
-#EXTINF:-1,NOW TV group-title="Ulusal"
+#EXTINF:-1,group-title="Ulusal",NOW TV
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-#EXTINF:-1,360 TV group-title="Ulusal"
+#EXTINF:-1,group-title="Ulusal",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:-1,BEYAZ TV group-title="Ulusal"
+#EXTINF:-1,group-title="Ulusal",BEYAZ TV 
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 
-
-#EXTINF:-1,EURO D group-title="Ulusal"
+#EXTINF:-1,group-title="Ulusal",EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-#EXTINF:-1,KANAL 7 AVRUPA group-title="Ulusal"
-https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ATV.tr@SD",ATV group-title="Ulusal"
-http://89.187.191.41/ATV-HD-TR/video.m3u8
-#EXTINF:-1 tvg-id="ATV.tr@SD",ATV group-title="Ulusal"
+#EXTINF:-1 tvg-id="ATV.tr@SD",group-title="Ulusal",ATV
 http://116.202.238.88/ATV_TR/index.m3u8
-#EXTINF:-1 tvg-id="BeyazTV.tr@SD",Beyaz TV (1080p) group-title="Ulusal"
+#EXTINF:-1 tvg-id="BeyazTV.tr@SD",group-title="Ulusal",Beyaz TV (1080p) 
 https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
-#EXTINF:-1 tvg-id="EuroD.tr@SD",Euro D (1080p) group-title="Ulusal"
+#EXTINF:-1 tvg-id="EuroD.tr@SD",group-title="Ulusal",Euro D (1080p)
 https://viamotionhsi.netplus.ch/live/eds/eurod/browser-HLS8/eurod.m3u8
-#EXTINF:-1 tvg-id="EuroD.tr@SD",Euro D (720p) group-title="Ulusal"
+#EXTINF:-1 tvg-id="EuroD.tr@SD",group-title="Ulusal",Euro D (720p)
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-#EXTINF:-1 tvg-id="NOWTV.tr@SD",NOW TV group-title="Ulusal"
+#EXTINF:-1 tvg-id="NOWTV.tr@SD",group-title="Ulusal",NOW TV 
 http://116.202.238.88/FOXTV_TR/index.m3u8
-#EXTINF:-1 tvg-id="TRT1.tr@SD",TRT 1 (1080p) group-title="Ulusal"
+#EXTINF:-1 tvg-id="TRT1.tr@SD",group-title="Ulusal",TRT 1 (1080p)
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
-#EXTINF:-1 tvg-id="TRT1.tr@SD",TRT 1 (1080p) group-title="Ulusal"
-https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRT2.tr@SD",TRT 2 (720p) group-title="Ulusal"
-https://tv-trt2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="kanal7.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Kanal_7_logo.png" group-title="Haber",Kanal 7
-https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-#EXTINF:-1 tvg-id="NOWTV.tr@SD",NOW TV (720p) group-title="Ulusal"
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 
 
 # --- Haber ---
