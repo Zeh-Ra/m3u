@@ -18,71 +18,25 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 https://www.starturk.com.tr/canli-yayin
 #EXTINF:-1 tvg-id="trt2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/TRT_2_logo.png" group-title="Ulusal",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="tv8.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/TV8_logo.png" group-title="Ulusal",TV8
-https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-
-
-
 #EXTINF:-1,KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 tvg-id="tv8.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/TV8_logo.png" group-title="Ulusal",TV8
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:-1,TV 8.5
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
 #EXTINF:-1,NOW TV
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1,360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:-1,TEVE 2
-https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
-#EXTINF:-1,TV 8
-https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-#EXTINF:-1,TV 8.5
-https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
 #EXTINF:-1,BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-#EXTINF:-1,TRT BELGESEL
-https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,TLC
-https://dogus-live.daioncdn.net/tlc/tlc.m3u8
-#EXTINF:-1,DMAX TV
-https://dogus-live.daioncdn.net/dmax/dmax.m3u8
-#EXTINF:-1,A2
-https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8
+
+
 #EXTINF:-1,EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-#EXTINF:-1,SHOW MAX
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
 #EXTINF:-1,KANAL 7 AVRUPA
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
-#EXTINF:-1,TGRT EU
-https://tgrt-live.ercdn.net/tgrteu/tgrteu.m3u8
-#EXTINF:-1,CİNEMAX 6
-https://ip240.radyotelekom.com.tr:3118/stream/play.m3u8
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show",SHOW TV
-https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TRT1HD.tr" tvg-name="TRT 1",TRT 1
-https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_sd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D",Kanal D
-https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV",ATV
-https://trkvz-live.daioncdn.net/atv/atv.m3u8
-#EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox",FOX Tv
-https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="StarHD.tr" tvg-name="STAR TV",Star TV
-https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8",TV8
-https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="360.tr",360
-https://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC",TLC Tv
-https://www.youtube.com/watch?v=IMy6RvwMJLs
-#EXTINF:-1 tvg-id="BloombergHT.tr",Bloomberg HT
-https://mn-nl.mncdn.com/blutv_bloomberght/smil:bloomberght_sd.smil/playlist.m3u8
-#EXTINF:-1,Kanal 7
-https://mn-nl.mncdn.com/blutv_kanal7/kanal7_sd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="A2.tr",A2 TV
-https://mn-nl.mncdn.com/blutv_a2/smil:a2_sd.smil/playlist.m3u8
-#EXTINF:-1,DMAX
-https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.sltur.m3u8
-#EXTINF:-1,Euro Star
-https://xrklj56s.rocketcdn.com/eurostar.smil/chunklist.sltur.m3u8
+
 #EXTINF:-1 tvg-id="ATV.tr@SD",ATV
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:-1 tvg-id="ATV.tr@SD",ATV
@@ -93,36 +47,18 @@ https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f
 https://viamotionhsi.netplus.ch/live/eds/eurod/browser-HLS8/eurod.m3u8
 #EXTINF:-1 tvg-id="EuroD.tr@SD",Euro D (720p)
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-#EXTINF:-1 tvg-id="EuroD.tr@SD",Euro D
-https://viamotionhsi.netplus.ch/live/eds/eurod/browser-dash/eurod.mpd
-#EXTINF:-1 tvg-id="EuroStar.tr@SD",EuroStar
-https://gknnowtv.onrender.com/eurostar.m3u8
-#EXTINF:-1 tvg-id="EuroStar.tr@SD",EuroStar TV (1080p)
-https://canlitvulusal.xyz/live/eurostar/index.m3u8
-#EXTINF:-1 tvg-id="NOWTV.tr@SD",NOW TV (720p)
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-id="NOWTV.tr@SD",NOW TV
 http://116.202.238.88/FOXTV_TR/index.m3u8
-#EXTINF:-1 tvg-id="ShowMax.tr@SD",Show Max
-https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/showmax.m3u8
-#EXTINF:-1 tvg-id="ShowTV.tr@SD",Show TV (1080p)
-https://ciner-live.daioncdn.net/showtv/showtv.m3u8
-#EXTINF:-1 tvg-id="StarTV.tr@SD",Star TV (720p) [Not 24/7]
-https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr@SD",TRT 1 (1080p)
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:-1 tvg-id="TRT1.tr@SD",TRT 1 (1080p)
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr@SD",TRT 2 (720p)
 https://tv-trt2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TV8.tr@SD",TV 8 (1080p) [Not 24/7]
-https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-#EXTINF:-1 tvg-id="TV8.tr@SD",TV 8 (1080p)
-https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
-#EXTINF:-1 tvg-id="TV85.tr@SD",TV 8.5 (720p)
-http://bozztv.com/gin-dvrfl05/gin-tv8_5/index.m3u8
-
-
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Kanal_7_logo.png" group-title="Haber",Kanal 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 tvg-id="NOWTV.tr@SD",NOW TV (720p)
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 
 
 # --- Haber ---
@@ -130,8 +66,6 @@ http://bozztv.com/gin-dvrfl05/gin-tv8_5/index.m3u8
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="tgrthaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/TGRT_Haber_logo.png" group-title="Haber",TGRT Haber
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
-#EXTINF:-1 tvg-id="kanal7.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Kanal_7_logo.png" group-title="Haber",Kanal 7
-https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:-1 tvg-id="beyaztv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/10/Beyaz_TV_logo.png" group-title="Haber",Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 #EXTINF:-1 tvg-id="tv5.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/69/TV5_Turkey_logo.png" group-title="Haber",TV5
@@ -142,16 +76,13 @@ https://krt-live.daioncdn.net/krt/krt.m3u8
 https://internettv.guventechnology.com:19360/flashhabertv/1080p.m3u8
 #EXTINF:-1,KUDUS TV
 https://yayin30.haber100.com/live/kudustv/chunklist.m3u8
+#EXTINF:-1,TGRT EU
+https://tgrt-live.ercdn.net/tgrteu/tgrteu.m3u8
 
-#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ab/TRT_Belgesel_logo.png" group-title="Unterhaltung",TRT Belgesel
-https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="cine5.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/9e/Cine5_logo.png" group-title="Unterhaltungv",Cine5
-https://cine5-live.daioncdn.net/cine5/cine5.m3u8
-#EXTINF:-1,SLOW KARADENIZ TV
-https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
-#EXTINF:-1,TRT SPOR
-https://tv-trtspor1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,TRT SPOR YILDIZ
-https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+
+
+
 #EXTINF:-1 tvg-id="MaviKaradenizTV.tr@SD",MaviKaradeniz (1080p) [Not 24/7]
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
+#EXTINF:-1,SLOW KARADENIZ TV
+https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
