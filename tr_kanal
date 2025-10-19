@@ -13,11 +13,7 @@ https://atv-live.daioncdn.net/atv/atv.m3u8
 #EXTINF:-1 tvg-id="atv2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/ATV2_logo.png" group-title="Ulusal",ATV2
 https://atv2-live.daioncdn.net/atv2/atv2.m3u8
 #EXTINF:-1 tvg-id="kanald.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3f/Kanal_D_logo.png" group-title="Ulusal",Kanal D
-https://kanaldstream-lh.akamaihd.net/i/kanaldstream_1@334671/master.m3u8
-#EXTINF:-1 tvg-id="kanaldrama.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Kanal_D_Drama_logo.png" group-title="Ulusal",Kanal D Drama
-https://kanaldramalive.daioncdn.net/kanald/kanald.m3u8
-#EXTINF:-1 tvg-id="kanaldplus.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3f/Kanal_D_logo.png" group-title="Ulusal",Kanal D Plus
-https://kanaldplus-live.daioncdn.net/kanaldplus/kanaldplus.m3u8
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:-1 tvg-id="starturk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Star_Türk_logo.png" group-title="Ulusal",Star Türk
 https://www.starturk.com.tr/canli-yayin
 #EXTINF:-1 tvg-id="trt2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/TRT_2_logo.png" group-title="Ulusal",TRT 2
@@ -26,8 +22,7 @@ https://tv-trt2.medya.trt.com.tr/master.m3u8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 
 
-#EXTINF:-1,KANAL D
-https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+
 #EXTINF:-1,KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:-1,NOW TV
@@ -52,8 +47,6 @@ https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8
 #EXTINF:-1,EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-#EXTINF:-1,SHOW TÜRK
-https://canlitvulusal.xyz/live/showturk/index.m3u8
 #EXTINF:-1,SHOW MAX
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
 #EXTINF:-1,KANAL 7 AVRUPA
@@ -145,8 +138,6 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 https://tv5-live.daioncdn.net/tv5/tv5.m3u8
 #EXTINF:-1 tvg-id="krt.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/KRT_TV_logo.png" group-title="Haber",KRT TV
 https://krt-live.daioncdn.net/krt/krt.m3u8
-#EXTINF:-1,TV5
-https://tv5-live.ercdn.net/tv5/tv5.m3u8
 #EXTINF:-1,FLASH HABER
 https://internettv.guventechnology.com:19360/flashhabertv/1080p.m3u8
 #EXTINF:-1,KUDUS TV
@@ -162,9 +153,5 @@ https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT SPOR YILDIZ
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,GS TV
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
-#EXTINF:-1,FB TV
-https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MaviKaradenizTV.tr@SD",MaviKaradeniz (1080p) [Not 24/7]
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
